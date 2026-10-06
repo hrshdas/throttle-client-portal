@@ -5,7 +5,7 @@
 We take security seriously. If you discover a potential security vulnerability within **Throttle Client Portal**, please report it immediately by contacting the repository maintainers directly instead of opening a public issue.
 
 ### Preferred Reporting Method
-- Email: `security@throttle.agency` (or contact maintainer on GitHub)
+- Email: `throttleinfotech@gmail.com` (or contact maintainer on GitHub)
 - Include details such as:
   - Description of the issue
   - Steps to reproduce
